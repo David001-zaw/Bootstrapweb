@@ -9,7 +9,7 @@
 	<body>
 		<?php include 'menu.php'; ?>
 		<div class="jumbotron">
-			<h1>I am WebDeveloper</h1>
+			<h1>We are WebDeveloper</h1>
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus vero quas itaque ipsam porro, maiores, eum blanditiis tenetur, minima, incidunt voluptatibus ea eos</p>
 		</div>
 		
